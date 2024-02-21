@@ -1,0 +1,17 @@
+# Shortcuts for controlling the Blackmagic Camera App on iOS
+
+- [Control Blackmagic Cam](/shortcuts/control-blackmagic-cam)
+- [Control Blackmagic Cam: Lens](/shortcuts/control-blackmagic-cam-lens)
+- [Control Blackmagic Cam: Focus](/shortcuts/control-blackmagic-cam-focus)
+- [Control Blackmagic Cam: FPS](/shortcuts/control-blackmagic-cam-fps)
+- [Control Blackmagic Cam: ISO](/shortcuts/control-blackmagic-cam-iso)
+- [Control Blackmagic Cam: Shutter Speed](/shortcuts/control-blackmagic-cam-shutter-speed)
+- [Control Blackmagic Cam: White Balance](/shortcuts/control-blackmagic-cam-white-balance)
+- [Control Blackmagic Cam: Tint](/shortcuts/control-blackmagic-cam-tint)
+- [Control Blackmagic Cam: Exposure](/shortcuts/control-blackmagic-cam-exposure)
+- [Control Blackmagic Cam: Zoom](/shortcuts/control-blackmagic-cam-zoom)
+- [Control Blackmagic Cam: Stabilization](/shortcuts/control-blackmagic-cam-stabilization)
+- [Control Blackmagic Cam: Resolution](/shortcuts/control-blackmagic-cam-resolution)
+- [Control Blackmagic Cam: Codec](/shortcuts/control-blackmagic-cam-codec)
+- [Control Blackmagic Cam: View](/shortcuts/control-blackmagic-cam-view)
+- [Control Blackmagic Cam: Start Record](/shortcuts/control-blackmagic-cam-record)
