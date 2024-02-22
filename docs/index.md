@@ -2,7 +2,7 @@
 
 ## Documentation
 
-Learn the background behind and [how to use these shortcuts to control the Blackmagic Camera app on iOS](https://labs.mixeffect.app/2024/02/remotely-control-blackmagic-cam-for-ios).
+Learn the background behind and [how to use these shortcuts to control the Blackmagic Camera app on iOS](https://labs.mixeffect.app/article/2024/02/remotely-control-blackmagic-cam-for-ios).
 
 ## Control Blackmagic Cam
 
